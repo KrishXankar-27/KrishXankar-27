@@ -14,7 +14,12 @@
 
 ## 💡 Top Skills
 
-- **Technical:** JavaScript, Java, Frontend Development
+- **Technical Skills:**  Frontend Development
+- **Tech Stack:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 - **Soft Skills:** Fluent communication in English, Hindi, and Bengali
 
 ---
@@ -33,6 +38,9 @@
 - Exploring new tech and frameworks
 - Collaborating on open-source projects
 
+![](https://komarev.com/ghpvc/?username=KrishXankar-27&color=blue)
+
+
 ---
 
 ## 📈 GitHub Stats
@@ -40,6 +48,8 @@
 ![KrishXankar-27's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishXankar-27&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishXankar-27&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KrishXankar-27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KrishXankar-27)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
